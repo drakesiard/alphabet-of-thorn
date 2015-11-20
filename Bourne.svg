@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="765"
-   height="990"
-   id="svg3098"
+   width="990"
+   height="765"
+   id="svg3075"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Alphabet - 03 - Bourne and the Floating School.svg">
+   sodipodi:docname="Bourne.svg">
   <defs
-     id="defs3100" />
+     id="defs3077" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,26 +24,26 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="348.26656"
-     inkscape:cy="477.27371"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="502.45694"
+     inkscape:cy="441.73861"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="898"
+     inkscape:window-height="819"
+     inkscape:window-x="903"
+     inkscape:window-y="91"
+     inkscape:window-maximized="0" />
   <metadata
-     id="metadata3103">
+     id="metadata3080">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,9 +51,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-62.362183)">
+     transform="translate(0,-287.36218)">
     <g
-       transform="matrix(1.2490244,0,0,1.2490244,-346.23322,-425.27257)"
+       transform="matrix(1.7985384,0.37568371,-0.37568371,1.7985384,-197.09937,-625.41186)"
        id="g3540">
       <path
          sodipodi:nodetypes="ccccccsccc"
@@ -116,59 +116,5 @@
          d="m 541.36729,447.15669 c 2.60548,5.36129 -0.79606,23.82116 -3.07378,29.67939 -5.90008,15.17488 -15.91833,26.75064 -23.93908,42.79215 -7.93354,15.86708 -6.55289,19.82035 -16.8934,35.33112 -2.94926,4.42389 -11.8275,17.00553 -13.25762,17.64114 4.45403,-0.19422 4.66035,0.085 7.84971,-1.11104 1.74706,15.22982 5.87392,44.56617 26.3673,28.78064 -26.4702,9.68112 -12.6099,-71.62316 6.31345,-77.36014 -2.95627,-0.41951 -8.59626,4.50395 -11.24475,4.79823 4.49949,-11.36513 41.79772,-59.20086 27.87817,-80.55149 z"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="514.16766"
-       y="348.28589"
-       id="text3650"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3652"
-         x="514.16766"
-         y="348.28589">Bourne</tspan></text>
-    <g
-       transform="matrix(2.0036721,0,0,1.7813094,-1217.5151,124.09224)"
-       id="g3693">
-      <path
-         sodipodi:nodetypes="cccccccccssc"
-         inkscape:connector-curvature="0"
-         id="path3668"
-         d="m 879.28571,311.11219 c 4.68573,34.01589 39.86073,54.50248 77.32143,50.89285 -25.36382,10.65186 -46.16626,6.6723 -61.96428,-7.5 28.36564,39.76042 16.74065,46.86573 34.64285,61.42857 -6.98323,-1.00186 -8.08112,-1.33691 -9.64285,-2.5 -1.94928,12.9062 -9.71372,27.33249 -17.3302,32.45023 -3.27311,6.82001 -0.3589,6.25117 -2.49123,8.08548 -14.21351,0.69033 -11.40489,-5.17143 -41.25,12.67858 12.64241,-15.47883 30.91151,-19.06214 40.71428,-41.42857 4.84986,-4.84986 7.6331,-42.62819 3.57143,-50 -7.18626,-13.04284 -13.00322,-26.01139 -19.46429,-39.28571 -3.21772,-6.61084 -3.10996,-16.14756 -4.10714,-24.82143 z"
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccsc"
-         inkscape:connector-curvature="0"
-         id="path3670"
-         d="m 788.42406,233.63354 c 14.78466,9.33759 29.15467,25.39112 46.71956,29.29443 9.89873,26.51076 55.46291,79.5826 64.64976,120.20815 -3.59631,-8.22014 -22.90244,-51.96903 -49.49747,-84.0952 -16.73284,-20.21288 -60.06213,-63.88722 -61.87185,-65.40738 z"
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccccsscc"
-         inkscape:connector-curvature="0"
-         id="path3685"
-         d="m 878.39286,349.50505 c 0.85535,-1.35687 2.31614,-1.73814 2.5,-3.39286 0.76471,20.3685 5.34053,40.228 15.89286,43.39286 2.69801,-1.37148 3.2733,-1.66464 3.92857,-4.28572 0.64589,9.27117 -1.47936,14.04162 -9.10715,16.78571 -4.02842,-3.284 -7.45519,-2.23456 -11.60713,-12.14285 -3.53685,-8.44043 -1.99199,-17.48831 -3.92857,-26.25001 -5.88226,-26.61388 -20.75923,-41.35051 -47.85715,-42.76785 18.68427,-6.44408 41.18506,10.3158 50.17857,28.66072 z"
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cscccccsccccscccsccc"
-         inkscape:connector-curvature="0"
-         id="path3689"
-         d="m 810,369.1479 c 2.62454,9.66376 47.10648,23.98001 52.32143,18.03571 7.61771,-8.6831 -29.00017,-34.37574 -40.71428,-36.78571 11.91713,1.24823 19.44397,3.85321 30.89285,11.96428 -8.52026,-7.22431 -14.53748,-14.76592 -15.89285,-26.96428 3.42689,13.79907 21.94773,24.74394 27.67856,35.35714 5.82597,11.65194 11.94617,20.08178 19.28572,30.35714 -7.10509,-1.97748 -8.58917,-5.77158 -12.14286,-5.53571 -5.19608,0.34488 -14.84323,1.41356 -18.39285,0.89285 15.95444,8.41523 30.77427,27.84381 35.71428,38.92858 -7.94498,-8.57002 -34.69396,-32.41232 -35.17857,-10.17858 -0.23002,-3.28315 -1.95479,-8.68724 -1.69643,-10.53571 -6.10227,4.12807 -8.71912,4.64713 -12.23214,8.57143 -7.16456,8.00333 -15,25.43483 -15,36.42857 1.22222,-14.32697 4.23197,-33.30938 8.57143,-45.17857 1.1322,-3.43997 -5.92847,-6.39283 -8.92857,-7.14285 4.97365,-1.18033 17.06272,-1.18001 22.85713,-3.03572 13.49714,-4.32259 -6.08044,-10.88958 -14.10713,-10.35715 -22.25218,-1.36655 -47.54098,20.50532 -53.57143,38.92858 3.22468,-27.37255 33.56783,-36.4609 30.53571,-63.75 z"
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="220.41467"
-       y="755.37732"
-       id="text3729"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="220.41467"
-         y="755.37732"
-         id="tspan3733">Felan and the</tspan><tspan
-         sodipodi:role="line"
-         x="220.41467"
-         y="800.37732"
-         id="tspan3737">Floating School</tspan></text>
   </g>
 </svg>
