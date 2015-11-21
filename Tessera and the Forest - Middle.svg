@@ -14,7 +14,7 @@
    id="svg3441"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 23">
+   sodipodi:docname="Tessera and the Forest - Middle.svg">
   <defs
      id="defs3443">
     <inkscape:path-effect
@@ -29,17 +29,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="447.27108"
-     inkscape:cy="535.74789"
+     inkscape:zoom="2.8"
+     inkscape:cx="274.69246"
+     inkscape:cy="448.95104"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="792"
+     inkscape:window-height="883"
+     inkscape:window-x="829"
+     inkscape:window-y="52"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata3446">
     <rdf:RDF>
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,14 +101,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:1.38031375000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 98.207203,763.70872 c -24.70297,-50.6467 5.922407,-125.27853 52.991077,-156.72097 58.68588,-38.92872 98.76252,-82.39278 130.05758,-141.2188 -17.69823,49.2388 -28.51747,74.54956 -55.1939,124.52988 -19.21214,35.99539 -86.02496,57.30926 -119.58945,104.66429 -10.328027,14.5715 -11.059057,28.30969 -8.265307,68.7456 z"
-       id="path3409"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccssc" />
-    <path
-       style="fill:#000000;stroke:#000000;stroke-width:1.38031375000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 267.0428,535.41199 c -24.43898,30.21911 24.7597,65.71429 -4.9012,83.92781 7.81227,-3.01322 20.10726,-1.43704 25.48951,8.39246 63.30487,80.63366 108.20701,63.79495 127.92195,97.46316 17.55188,-8.36495 31.46932,11.01992 57.36896,7.88601 -44.53665,-19.42714 -47.38795,-8.64597 -56.60646,-25.91047 -26.58077,0.61385 -94.68016,-61.22603 -44.98652,-41.17385 -43.88085,-18.51788 -86.09129,-76.86441 -60.47791,-77.743 -24.52597,-11.88512 -38.89205,-29.43502 -43.80833,-52.84212 z"
+       style="fill:#000000;stroke:#000000;stroke-width:1.38031375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 267.0428,535.41199 c -15.86755,37.71911 16.90256,69.28572 -4.9012,83.92781 7.81227,-3.01322 20.10726,-1.43704 25.48951,8.39246 63.30487,80.63366 108.20701,63.79495 127.92195,97.46316 17.55188,-8.36495 31.46932,11.01992 57.36896,7.88601 -44.53665,-19.42714 -47.38795,-8.64597 -56.60646,-25.91047 -26.58077,0.61385 -94.68016,-61.22603 -44.98652,-41.17385 -43.88085,-18.51788 -86.09129,-76.86441 -60.47791,-77.743 -31.31168,-8.67083 -34.24919,-32.29216 -43.80833,-52.84212 z"
        id="path3411"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
@@ -124,5 +118,11 @@
        id="path3417"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="scccccscssscs" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.14051843px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 172.55439,795.25126 c 0.82077,-36.74663 -12.29819,-66.7808 -23.46363,-83.04134 49.57153,-44.4633 99.41505,-158.53445 95.59749,-205.25407 13.72098,53.94444 -14.23951,97.28223 3.67732,113.02583 -19.42452,0.0808 -60.53955,68.51481 -72.86082,114.86514 -3.79135,14.26236 7.26758,50.55155 -2.95036,60.40444 z"
+       id="path3409"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccsc" />
   </g>
 </svg>
